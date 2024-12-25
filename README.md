@@ -13,7 +13,7 @@ Passionate about building scalable and efficient web applications. Skilled in **
 ## 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subodhpoudel12&show_icons=true&theme=blue&count_private=true" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subodhpoudel12&show_icons=true&theme=blue&count_private=true&exclude_forks=true" alt="My GitHub Stats" />
 </p>
 
 <p align="center">
@@ -21,10 +21,8 @@ Passionate about building scalable and efficient web applications. Skilled in **
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subodhpoudel12&langs_count=8&layout=compact&theme=blue" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subodhpoudel12&langs_count=5&layout=compact&theme=blue&exclude_forks=true" alt="Top Languages" />
 </p>
-
-
 
 ---
 
