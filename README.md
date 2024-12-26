@@ -20,9 +20,7 @@ Passionate about building scalable and efficient web applications. Skilled in **
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subodhpoudel12&theme=blue" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subodhpoudel12&langs_count=5&layout=compact&theme=blue&exclude_forks=true" alt="Top Languages" />
-</p>
+
 
 ---
 
