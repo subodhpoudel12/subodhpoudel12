@@ -19,7 +19,7 @@
 <br/>  
 
 ## Dev.to Card
-<a href="https://app.daily.dev/subodhpoudel12"><img src="./devcard.png" onerror="this.onerror=null;this.src='https://api.daily.dev/devcards/v2/xKOcCL1QSPz0eImISLFuW.png?type=default&r=q5q';" width="356" alt="Subodh's Dev Card"/></a>
+<a href="https://app.daily.dev/subodhpoudel"><img src="./devcard.png" onerror="this.onerror=null;this.src='https://api.daily.dev/devcards/v2/xKOcCL1QSPz0eImISLFuW.png?type=default&r=q5q';" width="356" alt="Subodh's Dev Card"/></a>
 
 
 ## My Skill Set  
