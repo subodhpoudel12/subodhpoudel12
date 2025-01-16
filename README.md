@@ -1,7 +1,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
   
 
-### <div align="center">I'm Srijan, a full-time full-stack developer 👨‍💻.</div>  
+### <div align="center">I'm Subodh, a full-time full-stack developer 👨‍💻.</div>  
   
 
 - 🔭 I’m currently working with [Debugsoft](https://github.com/dbugsoft)  
