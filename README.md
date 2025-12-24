@@ -4,7 +4,7 @@
 ### <div align="center">I'm Subodh, a full-time full-stack developer 👨‍💻.</div>  
   
 
-- 🔭 I’m currently working with [Debugsoft](https://github.com/dbugsoft)  
+- 🔭 I’m currently working with [Bytes Pixel] 
   
 
 - 🌱 I’m currently learning [BETH stack](https://blog.stackademic.com/beth-a-modern-stack-for-the-modern-web-1b3f3effb537)  
